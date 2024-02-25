@@ -4,3 +4,4 @@
 
 Для перехода в ветку есть команда `git checkout %BRANCH_NAME%`. 
 test info
+test for test branch
